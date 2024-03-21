@@ -3,6 +3,14 @@
 
 -criar um banco de dados mysql local com o nome de "minerproject"
 
+-copiar .env.example para .env
+
+-composer install
+
+-npm install vite
+
+-npm run build
+
 -rodar o comando php artisan migrate para subir tabelas
 
 -php artisan serve para rodar o projeto em um servidor local
